@@ -1,6 +1,8 @@
-# Hi 👋, I'm Bethrand Nnaemeka
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Bethrand Nnaemeka
 
 ### Full-Stack Developer • Startup Builder
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <p align="left"> <a href="https://twitter.com/bethoven_js" target="blank"><img src="https://img.shields.io/twitter/follow/bethoven_js?logo=twitter&style=for-the-badge" alt="bethoven_js" /></a> </p>
 
