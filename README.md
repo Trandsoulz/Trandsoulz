@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer • Startup Builder
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Trandsoulz&label=Profile views&color=0e75b6&style=flat" alt="Trandsoulz" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bethoven_js" target="blank"><img src="https://img.shields.io/twitter/follow/bethoven_js?logo=twitter&style=for-the-badge" alt="bethoven_js" /></a> </p>
+
+[![wakatime](https://wakatime.com/badge/user/018c9d8d-5f90-4898-a969-0e63a47c7b06.svg)](https://wakatime.com/@018c9d8d-5f90-4898-a969-0e63a47c7b06)
 
 - 🔭 I'm currently working on **Building software systems that power real-world businesses**
 
