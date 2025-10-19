@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bethrand Nnaemeka
 
-### Full-Stack Development • Startup Builder
+### Full-Stack Developer • Startup Builder
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Trandsoulz&label=Profile views&color=0e75b6&style=flat" alt="Trandsoulz" /> </p>
 
