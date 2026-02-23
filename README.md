@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **When I’m not coding, I'm probably gaming or sleeping**
 
-- 👨‍💻 All of my projects are available at **[https://bethrand.com](https://bethrand.com)**
+- 👨‍💻 All of my projects are available at **[https://bethrand.dev](https://bethrand.dev)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1OLQv4B-OIJSjXJawiixqCzQNh63FNDLf](https://drive.google.com/file/d/1OLQv4B-OIJSjXJawiixqCzQNh63FNDLf)**
 
